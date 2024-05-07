@@ -1,7 +1,7 @@
 <h1>ExpNo 6 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
 
-### DEVELOPED BY : KAVYA K
-### REG NO : 212222230065
+### DEVELOPED BY : KADIN SAMSON L
+### REG NO : 212221230044
 
 ## Aim :
 
